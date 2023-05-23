@@ -21,7 +21,7 @@
   ```
   
 - Go to `http://localhost:8800/` in your browser
-- Open the project in your preferred editor - your project is now available in the `api` directory.
+- Open the project in your preferred editor - your project is now available in the `code` directory.
   
 **Note** - Feel free to change the mysql variables to values of your choice
 
